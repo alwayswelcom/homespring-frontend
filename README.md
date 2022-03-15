@@ -1,8 +1,12 @@
+<p align="center"><img width="368px" src="https://raw.githubusercontent.com/ijsto/reactnextjssnippets/master/images/logo02.png"></p>
 <p align="center">
-  <a href="http://nextjs.com/" target="blank"><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fraw.githubusercontent.com%2Fijsto%2Freactnextjssnippets%2Fmaster%2Fimages%2Flogo02.png&imgrefurl=https%3A%2F%2Fgithub.com%2Fijsto%2Freactnextjssnippets&tbnid=fjTVqz9PEiaH9M&vet=12ahUKEwilxqK4zcf2AhWRR8AKHXlCDdAQMygHegUIARDDAQ..i&docid=7aeL6hYGw5yy1M&w=1375&h=1375&q=Next.js%20logo&ved=2ahUKEwilxqK4zcf2AhWRR8AKHXlCDdAQMygHegUIARDDAQ" width="320" alt="Next Logo" /></a>
+<a href="https://marketplace.visualstudio.com/items?itemName=iJS.reactnextjssnippets"><img src="https://vsmarketplacebadge.apphb.com/installs-short/iJS.reactnextjssnippets.svg?style=for-the-badge&colorA=85bf00&colorB=679400&label=DOWNLOADS"/></a> <a href="https://code.visualstudio.com/updates/v1_25"><img src="https://vsmarketplacebadge.apphb.com/rating-star/iJS.reactnextjssnippets.svg?style=for-the-badge&colorA=38B8F0&colorB=3726A6"/></a> 
+<a href="https://ijs.to"><img src="https://img.shields.io/badge/Learn%20JavaScript-iJS.to%E2%86%92-gray.svg?colorA=B838F0&colorB=8721C3&style=for-the-badge"/></a>
 </p>
 
+# React Snippets for Next.js by iJS
 
+Thanks for giving this a go. Hope this helps and makes your coding more efficient and fun.
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Installation
