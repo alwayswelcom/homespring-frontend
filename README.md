@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="http://nextjs.com/" target="blank"><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fdarkroom.clock.co.uk%2F600%2Fc2e0fd4493a325f007c366099d7162b0%3A3233067acc6b2ee9af2b5001ac0e76be&imgrefurl=https%3A%2F%2Fwww.clock.co.uk%2Finsight%2Fnext-js-what-is-it-and-why-do-we-use-it&tbnid=-tCBI-mgHsCNkM&vet=10CM8BEDMoxwFqFwoTCLDH2qXMx_YCFQAAAAAdAAAAABAJ..i&docid=njcTSvqTvB7K8M&w=600&h=338&q=Next.js&ved=0CM8BEDMoxwFqFwoTCLDH2qXMx_YCFQAAAAAdAAAAABAJ" width="320" alt="Nest Logo" /></a>
+</p>
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Installation
