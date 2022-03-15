@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ```bash
 npm install
 ```
-Next, create the .env.local file with NEXT_PUBLIC_HOST=http://localhost:3000.[https://github.com/Bloggify/obj2env-cli]
+Next, create the .env.local file with `NEXT_PUBLIC_HOST=http://localhost:3000`.[`create env file`](https://github.com/Bloggify/obj2env-cli)
 
 First, run the development server:
 
