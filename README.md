@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="http://nextjs.com/" target="blank"><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fdarkroom.clock.co.uk%2F600%2Fc2e0fd4493a325f007c366099d7162b0%3A3233067acc6b2ee9af2b5001ac0e76be&imgrefurl=https%3A%2F%2Fwww.clock.co.uk%2Finsight%2Fnext-js-what-is-it-and-why-do-we-use-it&tbnid=-tCBI-mgHsCNkM&vet=10CM8BEDMoxwFqFwoTCLDH2qXMx_YCFQAAAAAdAAAAABAJ..i&docid=njcTSvqTvB7K8M&w=600&h=338&q=Next.js&ved=0CM8BEDMoxwFqFwoTCLDH2qXMx_YCFQAAAAAdAAAAABAJ" width="320" alt="Nest Logo" /></a>
+  <a href="http://nextjs.com/" target="blank"><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fraw.githubusercontent.com%2Fijsto%2Freactnextjssnippets%2Fmaster%2Fimages%2Flogo02.png&imgrefurl=https%3A%2F%2Fgithub.com%2Fijsto%2Freactnextjssnippets&tbnid=fjTVqz9PEiaH9M&vet=12ahUKEwilxqK4zcf2AhWRR8AKHXlCDdAQMygHegUIARDDAQ..i&docid=7aeL6hYGw5yy1M&w=1375&h=1375&q=Next.js%20logo&ved=2ahUKEwilxqK4zcf2AhWRR8AKHXlCDdAQMygHegUIARDDAQ" width="320" alt="Next Logo" /></a>
 </p>
 
 
